@@ -1,22 +1,38 @@
 h1 {
   text-align: center;
+  font-weight: 500;
   color: red;
   margin-top: 100px;
   padding-bottom: 5%;
 }
 
 h3 {
+  font-weight: 400;
   text-align: center;
   color: green;
-  margin: 10px auto;
+  margin: 2% auto;
 }
 
 p {
   text-align: center;
-  margin: 10px auto;
+  font-weight: 300;
+  margin: 2% auto;
 }
 
+body {
+  font-family: 'Roboto', sans-serif;
+}
 
-.container-centrale {
+.centrale {
+  height: auto;
   background-color: lightgrey;
+  margin: 5% auto;
+}
+
+.col-12 {
+  border-bottom: 3px solid red;
+}
+
+.img-full {
+  width: 20%;
 }
