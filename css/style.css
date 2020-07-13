@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  color: red;
+  margin-top: 100px;
+  padding-bottom: 5%;
+}
+
+h3 {
+  text-align: center;
+  color: green;
+  margin: 10px auto;
+}
+
+p {
+  text-align: center;
+  margin: 10px auto;
+}
+
+
+.container-centrale {
+  background-color: lightgrey;
+}
